@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/korkosh/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Korkosh](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/korkosh/) |
+| **Get License** | [Secure Licensing Rights for Korkosh](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/korkosh/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `e3aa19955355eb69f9ec91a84b115b9bbc99e354418d9a3800ff8d14ce2c58b4` |
 | **Timestamp** | May 12, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Korkosh
+
+This log tracks the cryptographic history and versioning for the song **Korkosh** (korkosh).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-12T06:54:35.839550 | `v1` | `e3aa19955355eb69f9ec91a84b115b9bbc99e354418d9a3800ff8d14ce2c58b4` | `7310d1cdaca9d6eac6c8d84aad4e23c87ef4a5d0e539606027e9e70215160627` | `2026-05-12_korkosh-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
